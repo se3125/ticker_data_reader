@@ -1,4 +1,4 @@
-This program is designed to work with (ticker_persister)[https://github.com/se3125/ticker_persister]. It reads the persisted data from that program and logs it to the console. 
+This program is designed to work with [ticker_persister](https://github.com/se3125/ticker_persister). It reads the persisted data from that program and logs it to the console. 
 
 
 Prerequisites:
